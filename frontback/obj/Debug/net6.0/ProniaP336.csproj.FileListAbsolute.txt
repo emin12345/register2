@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\frontback\frontback\obj\Debug\net6.0\ProniaP336.RazorAssemblyInfo.cs
